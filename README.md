@@ -12,7 +12,7 @@ This repository contains the code for a Todo List app where you can:
 - Delete tasks.
 - Toggle task completion state.
 
-The app features a clean and modern UI, with styles that include box shadows, rounded corners, and hover effects.
+
 
 ## Technologies Used
 
